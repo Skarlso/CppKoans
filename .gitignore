@@ -13,3 +13,4 @@ build/
 *.lai
 *.la
 *.a
+.DS_Store
